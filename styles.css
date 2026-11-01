@@ -148,44 +148,44 @@ p { max-width: 60ch; }
 .form-note { font-size: var(--t-small); margin-top: 18px; }
 
 /* MailerLite embed, restyled (form markup untouched) */
-#join #mlb2-47425763.ml-form-embedContainer { display: block !important; }
-#join #mlb2-47425763 .ml-form-align-center { text-align: left !important; }
-#join #mlb2-47425763.ml-form-embedContainer .ml-form-embedWrapper { background: transparent !important; max-width: none !important; width: 100% !important; display: block !important; border-radius: 0 !important; }
-#join #mlb2-47425763.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,
-#join #mlb2-47425763.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody { padding: 0 !important; }
-#join #mlb2-47425763 .ml-form-embedBody .ml-form-embedContent { display: none !important; }
-#join #mlb2-47425763 .ml-form-formContent { margin: 0 0 8px !important; }
-#join #mlb2-47425763 .ml-form-fieldRow { margin: 0 0 16px !important; }
-#join #mlb2-47425763 .ml-field-group::before { display: block; font: 600 15px/1.4 var(--body); margin-bottom: 6px; color: var(--vdl-charcoal); }
-#join #mlb2-47425763 .ml-field-name::before { content: "First name"; }
-#join #mlb2-47425763 .ml-field-email::before { content: "E-mail"; }
-#join #mlb2-47425763 input.form-control {
+#join #mlb2-47888831.ml-form-embedContainer { display: block !important; }
+#join #mlb2-47888831 .ml-form-align-center { text-align: left !important; }
+#join #mlb2-47888831.ml-form-embedContainer .ml-form-embedWrapper { background: transparent !important; max-width: none !important; width: 100% !important; display: block !important; border-radius: 0 !important; }
+#join #mlb2-47888831.ml-form-embedContainer .ml-form-embedWrapper .ml-form-embedBody,
+#join #mlb2-47888831.ml-form-embedContainer .ml-form-embedWrapper .ml-form-successBody { padding: 0 !important; }
+#join #mlb2-47888831 .ml-form-embedBody .ml-form-embedContent { display: none !important; }
+#join #mlb2-47888831 .ml-form-formContent { margin: 0 0 8px !important; }
+#join #mlb2-47888831 .ml-form-fieldRow { margin: 0 0 16px !important; }
+#join #mlb2-47888831 .ml-field-group::before { display: block; font: 600 15px/1.4 var(--body); margin-bottom: 6px; color: var(--vdl-charcoal); }
+#join #mlb2-47888831 .ml-field-name::before { content: "First name"; }
+#join #mlb2-47888831 .ml-field-email::before { content: "E-mail"; }
+#join #mlb2-47888831 input.form-control {
   font: 400 18px/1.4 var(--body) !important; color: var(--vdl-charcoal) !important;
   background: var(--vdl-haze) !important; border: 0 !important; border-bottom: 2px solid var(--vdl-lichen) !important;
   border-radius: 0 !important; padding: 14px 16px !important; height: auto !important; box-shadow: none !important; /* taste-skill-ignore */
   transition: border-color .2s ease;
 }
-#join #mlb2-47425763 input.form-control:focus { border-bottom-color: var(--vdl-moss-ink) !important; outline: none; }
-#join #mlb2-47425763 .ml-form-embedPermissions { margin: 8px 0 24px !important; }
-#join #mlb2-47425763 .ml-form-embedPermissions .ml-form-embedPermissionsContent h4 { font: 400 var(--t-accent)/1 var(--display) !important; letter-spacing: var(--track) !important; text-transform: uppercase !important; color: var(--vdl-charcoal) !important; margin: 0 0 8px !important; }
-#join #mlb2-47425763 .ml-form-embedPermissions .ml-form-embedPermissionsContent p,
-#join #mlb2-47425763 .ml-form-embedPermissions .ml-form-embedPermissionsContent .description,
-#join #mlb2-47425763 .ml-form-embedMailerLite-GDPR p { font: 400 15px/1.55 var(--body) !important; color: var(--vdl-charcoal) !important; }
-#join #mlb2-47425763 .ml-form-embedPermissionsOptionsCheckbox label { display: flex !important; gap: 10px; align-items: center; cursor: pointer; }
-#join #mlb2-47425763 .ml-form-embedPermissionsOptionsCheckbox .label-description { font: 600 15px/1.4 var(--body) !important; color: var(--vdl-charcoal) !important; }
-#join #mlb2-47425763 .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox] { width: 18px; height: 18px; accent-color: var(--vdl-moss-ink); }
-#join #mlb2-47425763 .ml-form-embedSubmit { margin: 0 !important; }
-#join #mlb2-47425763 .ml-form-embedSubmit button.primary,
-#join #mlb2-47425763 .ml-form-embedSubmit button.loading {
+#join #mlb2-47888831 input.form-control:focus { border-bottom-color: var(--vdl-moss-ink) !important; outline: none; }
+#join #mlb2-47888831 .ml-form-embedPermissions { margin: 8px 0 24px !important; }
+#join #mlb2-47888831 .ml-form-embedPermissions .ml-form-embedPermissionsContent h4 { font: 400 var(--t-accent)/1 var(--display) !important; letter-spacing: var(--track) !important; text-transform: uppercase !important; color: var(--vdl-charcoal) !important; margin: 0 0 8px !important; }
+#join #mlb2-47888831 .ml-form-embedPermissions .ml-form-embedPermissionsContent p,
+#join #mlb2-47888831 .ml-form-embedPermissions .ml-form-embedPermissionsContent .description,
+#join #mlb2-47888831 .ml-form-embedMailerLite-GDPR p { font: 400 15px/1.55 var(--body) !important; color: var(--vdl-charcoal) !important; }
+#join #mlb2-47888831 .ml-form-embedPermissionsOptionsCheckbox label { display: flex !important; gap: 10px; align-items: center; cursor: pointer; }
+#join #mlb2-47888831 .ml-form-embedPermissionsOptionsCheckbox .label-description { font: 600 15px/1.4 var(--body) !important; color: var(--vdl-charcoal) !important; }
+#join #mlb2-47888831 .ml-form-embedPermissionsOptionsCheckbox input[type=checkbox] { width: 18px; height: 18px; accent-color: var(--vdl-moss-ink); }
+#join #mlb2-47888831 .ml-form-embedSubmit { margin: 0 !important; }
+#join #mlb2-47888831 .ml-form-embedSubmit button.primary,
+#join #mlb2-47888831 .ml-form-embedSubmit button.loading {
   width: 100% !important; min-height: 54px !important; height: auto !important;
   font: 600 15px/1 var(--body) !important; letter-spacing: .06em !important; text-transform: uppercase !important;
   background: var(--vdl-charcoal) !important; color: var(--vdl-starlight) !important;
   border: 0 !important; border-radius: 2px !important; padding: 16px 24px !important; cursor: pointer; box-shadow: none !important; /* taste-skill-ignore */
   transition: background-color .25s var(--ease) !important;
 }
-#join #mlb2-47425763 .ml-form-embedSubmit button.primary:hover { background: var(--vdl-moss-ink) !important; }
-#join #mlb2-47425763 .ml-form-successBody .ml-form-successContent h4 { font: 400 var(--t-heading)/1 var(--display) !important; letter-spacing: var(--track) !important; text-transform: uppercase !important; color: var(--vdl-charcoal) !important; }
-#join #mlb2-47425763 .ml-form-successBody .ml-form-successContent p { font: 400 18px/1.6 var(--body) !important; color: var(--vdl-charcoal) !important; }
+#join #mlb2-47888831 .ml-form-embedSubmit button.primary:hover { background: var(--vdl-moss-ink) !important; }
+#join #mlb2-47888831 .ml-form-successBody .ml-form-successContent h4 { font: 400 var(--t-heading)/1 var(--display) !important; letter-spacing: var(--track) !important; text-transform: uppercase !important; color: var(--vdl-charcoal) !important; }
+#join #mlb2-47888831 .ml-form-successBody .ml-form-successContent p { font: 400 18px/1.6 var(--body) !important; color: var(--vdl-charcoal) !important; }
 
 /* ---------- faq ---------- */
 .faq { padding: var(--gap) var(--m) 0; }
@@ -241,3 +241,11 @@ p { max-width: 60ch; }
   *, *::before, *::after { animation: none !important; transition-duration: .01ms !important; transition-delay: 0s !important; }
   .js .rise { opacity: 1; transform: none; }
 }
+
+/* nieuw MailerLite-formulier (01/11/2026): bevestigingsvinkje */
+#join #mlb2-47888831 .ml-form-checkboxRow { margin: 8px 0 24px !important; }
+#join #mlb2-47888831 .ml-form-checkboxRow label { display: flex !important; gap: 10px; align-items: flex-start; cursor: pointer; }
+#join #mlb2-47888831 .ml-form-checkboxRow .label-description p { font: 600 15px/1.4 var(--body) !important; color: var(--vdl-charcoal) !important; margin: 0 !important; }
+#join #mlb2-47888831 .ml-form-checkboxRow input[type=checkbox] { width: 18px; height: 18px; margin-top: 1px; accent-color: var(--vdl-moss-ink); }
+#join #mlb2-47888831 .ml-form-embedPermissions .ml-form-embedPermissionsContent p a { color: var(--vdl-charcoal) !important; }
+#join .form-note { margin-top: 16px; }
